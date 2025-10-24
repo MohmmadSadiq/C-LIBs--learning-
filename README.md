@@ -4,7 +4,7 @@ Welcome to my library-building adventure! 🌟 This repository isn't just a coll
 
 My mission is to forge libraries that are not just functional, but are also **elegant**, **efficient**, and a **joy to maintain**.
 
-[![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://learn.microsoft.com/en-us/dotnet/c++/)
 ---
 
 ## ✨ My Core Philosophy: Building with Purpose ✨
@@ -58,3 +58,4 @@ using BrightMathLib;
 // 2. Call the method and see the magic!
 int sum = Calculator.Add(10, 5);
 Console.WriteLine($"The result is pure magic: {sum}"); // Output: The result is pure magic: 15
+
